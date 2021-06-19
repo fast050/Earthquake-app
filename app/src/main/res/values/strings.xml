@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Earthquake Report</string>
+    <string name="retry">retry</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_the_year_of_earthquakes">Enter The Year Of Earthquakes</string>
+    <string name="enter_your_magnitude">Enter The Magnitude</string>
+    <string name="setting">setting</string>
+</resources>

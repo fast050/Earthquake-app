@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="Text_Style_RecyclerView">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#EB292727</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>
