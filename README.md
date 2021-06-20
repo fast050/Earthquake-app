@@ -19,7 +19,8 @@ The App Have Three Main Functions :
 - MVVM : (Model — View — ViewModel)
 
 # Screenshot 
-<img src="https://media.giphy.com/media/5MGw1wj3YvNAnczqfJ/giphy.gif" width="500" height="1000" />
+![Alt Text](https://media.giphy.com/media/5MGw1wj3YvNAnczqfJ/giphy.gif)
+<img src="https://media.giphy.com/media/5MGw1wj3YvNAnczqfJ/giphy.gif" width="350" height="700" />
 
 
 
