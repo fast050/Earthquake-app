@@ -20,6 +20,8 @@ The App Have Three Main Functions :
 
 # Screenshot 
 ![Alt Text](https://media.giphy.com/media/5MGw1wj3YvNAnczqfJ/giphy.gif)
+![Alt Text](https://media.giphy.com/media/WzwyBx7RNvKDmZOdLZ/giphy.gif)
+![Alt Text]()
 
 
 
