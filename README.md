@@ -3,11 +3,11 @@ simple app that gives a Report about Earthquakes around the world.
 
 # Description 
 The App Have Three Main Functions :
-- show the last update Earthquake Report daily.
+- Show The Last Update Earthquake Report Daily.
 - Search By The Year And Magnitude for Earthquake Reports.
 - Show Some News Related to Earthquake.
 
-# third Party 
+# Third Party 
 - Retrofit
 - Glide
 
