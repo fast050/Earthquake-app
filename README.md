@@ -1,5 +1,5 @@
 # Earthquake Report
-simple app that gives a Report about Earthquakes around the world.
+Simple App That Gives a Report About Earthquakes Around The World.
 
 # Description 
 The App Have Three Main Functions :
