@@ -2,7 +2,7 @@
 Simple App That Gives a Report About Earthquakes Around The World.
 
 # Description 
-The App Have Three Main Functions :
+The App Has Three Main Functions :
 - Show The Last Update Earthquake Report Daily.
 - Search By The Year And Magnitude for Earthquake Reports.
 - Show Some News Related to Earthquake.
